@@ -4,14 +4,6 @@
 - 🌱 
 - 💬 
 
-
-### Open Source Projects
-
- [![](https://github-readme-stats.vercel.app/api/pin/?username=nguyenthithanhhuong&repo=hometown-travel&theme=midnight-purple)]()
-
-
-
-
 ### Github Stats
 [![Nguyen Thi Thanh Huong Github Stats](https://github-readme-stats.vercel.app/api?username=nguyenthithanhhuong&count_private=true&theme=chartreuse-dark&show_icons=true)](https://github.com/nguyenthithanhhuong)
 
@@ -20,5 +12,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthithanhhuong&langs_count=16&theme=midnight-purple)](https://github.com/nguyenthithanhhuong)
 
 
-
-[![](https://komarev.com/ghpvc/?username=nguyenthithanhhuong&color=brightgreen&style=plastic)](https://github.com/nguyenthithanhhuong)
